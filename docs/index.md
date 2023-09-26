@@ -33,35 +33,28 @@
 
 # Descrição do projeto
 
-*&lt;O Grupo MB está trabalhando na ideia de abrir filiais da Pizza-Express localizadas em lugares estratégicos para melhorar a experiência do cliente e reduzir o tempo de entrega da pizza. E atualizando o nosso aplicativo e website, para melhorar a experiência do cliente.
-&gt;*
+O Grupo MB está trabalhando na ideia de abrir filiais da Pizza-Express localizadas em lugares estratégicos para melhorar a experiência do cliente e reduzir o tempo de entrega da pizza. E atualizando o nosso aplicativo e website, para melhorar a experiência do cliente.
+
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
 
 # Diagrama de casos de uso
 
-*&lt;
+
 ![Diagrama de Caso de Uso](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/c083e708-ecb2-4403-a05c-928753a043c3)
-&gt;*
+
 
 # Descrição dos casos de uso
 
-*&lt;
-![UC01](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/a40b2abd-e872-4a49-baa4-3bb51e335ae2)
-![UC02](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/f728524f-74d9-4a26-b570-3a4627eb5fe8)
-![UC03](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/298a4357-6260-46bf-9570-5dd78b1ca69d)
-![UC04](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/f98dfd1e-0599-4bc4-a273-274157dd57eb)
-![UC06](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/319bc492-888b-4a11-a2bc-b00f52650343)
-![UC05](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/de858b36-3f2c-4ba6-978d-3e5587256e75)
-![UC05](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/4fb86f28-c9c1-4543-a048-d85daa518525)
-![UC06](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/f323046f-fc8d-40de-9d07-f0303fd8c306)
 
+ ![UC01](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/a40b2abd-e872-4a49-baa4-3bb51e335ae2)
+ ![UC02](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/f728524f-74d9-4a26-b570-3a4627eb5fe8)
+ ![UC03](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/298a4357-6260-46bf-9570-5dd78b1ca69d)
+ ![UC04](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/f98dfd1e-0599-4bc4-a273-274157dd57eb)
+ ![UC05](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/4fb86f28-c9c1-4543-a048-d85daa518525)
+ ![UC06](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/f323046f-fc8d-40de-9d07-f0303fd8c306)
 
-
-
-
-&gt;*
 
 # Diagrama de sequencia
 
