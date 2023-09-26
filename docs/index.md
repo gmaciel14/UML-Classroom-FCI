@@ -37,7 +37,58 @@ O Grupo MB está trabalhando na ideia de abrir filiais da Pizza-Express localiza
 
 
 # Análise de requisitos funcionais e não-funcionais
-*&lt;Descrição dos requisitos&gt;*
+* Requisitos Funcionais:
+
+* Sistema de Atendimento de Pedidos:
+
+O sistema deve permitir que os clientes façam pedidos de pizzas.
+Deve ser possível selecionar diferentes tipos de pizzas e personalizá-las com ingredientes.
+Os clientes devem ser capazes de fornecer informações de entrega, incluindo endereço e detalhes de contato.
+O sistema deve calcular o tempo estimado de entrega com base na localização do cliente e no tráfego atual.
+Deve haver uma confirmação de pedido para o cliente após a submissão.
+
+* Localização da Fábrica de Pizzas:
+
+O sistema deve identificar a loja Pizza-Express mais próxima do cliente.
+Ele deve considerar a disponibilidade de ingredientes e a capacidade da loja para atender ao pedido.
+A localização da fábrica de pizzas deve ser determinada com precisão para minimizar o tempo de entrega.
+
+* Sistema de Software da Fábrica de Pizzas:
+
+Deve haver um sistema de software nas fábricas de pizzas para processar pedidos e preparar pizzas rapidamente.
+O sistema deve otimizar o processo de cozimento e montagem das pizzas para atender ao prazo de entrega de 10 a 15 minutos.
+Deve haver integração com os sistemas de atendimento de pedidos para receber pedidos e notificar os funcionários da fábrica.
+* Investigação de Entrega em Menos de 30 Minutos:
+
+A equipe deve investigar e propor métodos para entregar pizzas em menos de 30 minutos, possivelmente através da criação de lojas especializadas sem espaço de varejo.
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+* Requisitos Não Funcionais:
+
+* Tempo de Entrega:
+
+O sistema deve garantir que o tempo de entrega das pizzas seja inferior a 30 minutos, conforme possível.
+* Disponibilidade:
+
+O sistema deve estar disponível 24 horas por dia para aceitar pedidos.
+* Precisão na Localização:
+
+O sistema de localização da fábrica de pizzas deve ser altamente preciso para garantir a eficiência na entrega.
+* Eficiência Operacional:
+
+O sistema de software da fábrica de pizzas deve ser altamente eficiente, minimizando o tempo de preparação e cozimento das pizzas.
+* Integração com GPS:
+
+O sistema deve integrar-se a um sistema de GPS para rastrear entregadores e otimizar rotas de entrega.
+* Segurança de Dados:
+
+Deve haver medidas de segurança para proteger os dados dos clientes, como informações de pagamento e endereços.
+* Escalabilidade:
+
+O sistema deve ser escalável para lidar com um aumento significativo no volume de pedidos durante horários de pico.
+* Treinamento de Funcionários:
+
+Os funcionários devem receber treinamento adequado para operar o sistema e preparar pizzas rapidamente.
 
 # Diagrama de casos de uso
 
