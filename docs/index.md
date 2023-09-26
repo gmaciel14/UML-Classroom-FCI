@@ -26,14 +26,15 @@
 
 
 # Autores
-Gabriel Maciel Figueiredo Constantino da Silva
-Pedro Augusto Rubacow Iotti
+* Gabriel Maciel Figueiredo Constantino da Silva
+* Pedro Augusto Rubacow Iotti
 
 
 
 # Descrição do projeto
 
-*&lt;Introdução do projeto&gt;*
+*&lt;O Grupo MB está trabalhando na ideia de abrir filiais da Pizza-Express localizadas em lugares estratégicos para melhorar a experiência do cliente e reduzir o tempo de entrega da pizza. E atualizando o nosso aplicativo e website, para melhorar a experiência do cliente.
+&gt;*
 
 # Análise de requisitos funcionais e não-funcionais
 *&lt;Descrição dos requisitos&gt;*
