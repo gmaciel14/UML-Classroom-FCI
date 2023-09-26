@@ -3,7 +3,7 @@
 
 
 <font size="+12"><center>
-*&lt;Nome do Projeto&gt;*
+*&lt;Sistema de Entrega Rápida Pizza-Express&gt;*
 </center></font>
 
 >*Observação 1: A estrutura inicial deste documento é só um exemplo. O seu grupo deverá alterar esta estrutura de acordo com o que está sendo solicitado na disciplina.*
@@ -41,7 +41,9 @@
 
 # Diagrama de casos de uso
 
-*&lt;Diagrama para visualizar o comportamento dos atores&gt;*
+*&lt;
+![Diagrama de Caso de Uso](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/c083e708-ecb2-4403-a05c-928753a043c3)
+&gt;*
 
 # Descrição dos casos de uso
 
