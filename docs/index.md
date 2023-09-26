@@ -26,15 +26,9 @@
 
 
 # Autores
+Gabriel Maciel Figueiredo Constantino da Silva
+Pedro Augusto Rubacow Iotti
 
-* Aluno 1
-* Aluno 2
-* Aluno 3
-* Aluno 4
-* Aluno 5
-* Aluno 6
-* Aluno 7
-* Aluno 8
 
 
 # Descrição do projeto
