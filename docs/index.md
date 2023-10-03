@@ -112,7 +112,8 @@ Os funcionários devem receber treinamento adequado para operar o sistema e prep
 
 # Diagrama de sequencia
 
-*&lt;Diagrama de ordem e interação dos objetos&gt;*
+![diagrama de sequência](https://github.com/gmaciel14/UML-Classroom-FCI/assets/64565201/d78008c6-ce15-485c-bb6f-30982a20ba68)
+
 
 # Diagrama de classes
 
