@@ -125,11 +125,12 @@ Os funcionários devem receber treinamento adequado para operar o sistema e prep
 
 # Decisões de arquitetura
 
-*&lt;Descrever a infraestrutura escolhida para arquitetura do projeto&gt;*
+A arquitetura escolhida pelo grupo MB foi a Arquitetura de Microsserviços, pois ela divide o aplicativo em várias partes indepedentes menores, e cada um com suas responsabilidades. Como o aplicativo é em uma linha de montagem, desde o pedido solicitado até a entrega, o melhor será essa divisão para que cada parte tenha uma função específica.Outra vantagem dessa arquitetura é a facilcitação na manutenção do aplicativo.Utilizaremos a linguagem Java, por conta da facilidade que o grupo MB tem em trabalhar com ela, e pelo inúmeros recursos que a linguagem contém.  
 
 # Diagrama de implantação
 
-*&lt;Diagrama para exibir o relacionamento de hardware e software no projeto&gt;*
+![parteVIII](https://github.com/gmaciel14/UML-Classroom-FCI/assets/64565201/3c0f0ab6-0a0e-4187-a330-59615dfde407)
+
 
 # Referências
 
