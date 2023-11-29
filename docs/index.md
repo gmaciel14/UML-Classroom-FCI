@@ -120,7 +120,8 @@ Os funcionários devem receber treinamento adequado para operar o sistema e prep
 
 # Diagrama de Componentes
 
-*&lt;Diagrama para exibir a relação estrutural dos componentes de um sistema de software
+![image](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/fdc1c647-131b-4020-9c03-a5594b0ab34c)
+
 
 # Decisões de arquitetura
 
