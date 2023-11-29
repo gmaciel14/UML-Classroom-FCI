@@ -116,8 +116,7 @@ Os funcionários devem receber treinamento adequado para operar o sistema e prep
 
 
 # Diagrama de classes
-
-*&lt;Diagrama de relacionamento entre classes para os seus atributos e operações&gt;*
+![Parte V](https://github.com/gmaciel14/UML-Classroom-FCI/assets/64565201/80872572-d493-40f4-ab08-823a1a3a9f26)
 
 # Diagrama de Componentes
 
