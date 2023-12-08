@@ -120,7 +120,7 @@ Os funcionários devem receber treinamento adequado para operar o sistema e prep
 
 # Diagrama de Componentes
 
-![image](https://github.com/gmaciel14/UML-Classroom-FCI/assets/142851938/fdc1c647-131b-4020-9c03-a5594b0ab34c)
+![diagrama de componentes](https://github.com/gmaciel14/UML-Classroom-FCI/assets/64565201/19ab0c5e-898c-4311-9373-de8a3bfcce5d)
 
 
 # Decisões de arquitetura
