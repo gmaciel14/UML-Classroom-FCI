@@ -125,7 +125,36 @@ Os funcionários devem receber treinamento adequado para operar o sistema e prep
 
 # Decisões de arquitetura
 
-A arquitetura escolhida pelo grupo MB foi a Arquitetura de Microsserviços, pois ela divide o aplicativo em várias partes indepedentes menores, e cada um com suas responsabilidades. Como o aplicativo é em uma linha de montagem, desde o pedido solicitado até a entrega, o melhor será essa divisão para que cada parte tenha uma função específica.Outra vantagem dessa arquitetura é a facilcitação na manutenção do aplicativo.Utilizaremos a linguagem Java, por conta da facilidade que o grupo MB tem em trabalhar com ela, e pelo inúmeros recursos que a linguagem contém.  
+A escolha estratégica da Arquitetura de Microsserviços pelo grupo MB para o desenvolvimento do aplicativo Pizza-Express reflete uma abordagem consciente e detalhada na concepção do sistema. Vamos aprofundar os aspectos dessa decisão:
+
+1. Decomposição Funcional:
+
+A Arquitetura de Microsserviços permite a decomposição das funcionalidades do aplicativo em unidades independentes e especializadas. Cada microsserviço é designado a uma responsabilidade específica, como pedidos, rastreamento, promoções, criando uma abordagem modular.
+
+2. Fluxo de Trabalho como Linha de Montagem:
+
+Dado o fluxo contínuo de operações desde o pedido até a entrega, a analogia com uma linha de montagem destaca a natureza sequencial e interconectada do processo. Cada microsserviço desempenha um papel fundamental nessa linha, contribuindo para uma experiência de usuário coesa e eficiente.
+
+3. Vantagens na Manutenção:
+
+A fragmentação do sistema em microsserviços independentes oferece vantagens significativas na manutenção contínua. Isso permite atualizações específicas em determinadas funcionalidades sem impactar o sistema como um todo, facilitando a implementação de melhorias e correções.
+
+4. Escolha da Linguagem Java:
+
+A decisão de utilizar a linguagem Java é fundamentada na familiaridade e expertise do grupo MB. A linguagem Java é reconhecida por sua robustez, portabilidade e vasto ecossistema, fornecendo uma base sólida para o desenvolvimento de microsserviços.
+
+5. Recursos Abundantes da Linguagem:
+
+Java oferece uma gama abrangente de recursos, desde a orientação a objetos até um coletor de lixo eficiente, além de uma extensa biblioteca padrão. Esses recursos proporcionam ao grupo MB uma plataforma robusta para implementar funcionalidades avançadas e garantir a qualidade do código.
+
+6. Padrões de Comunicação:
+
+No contexto de microsserviços, a escolha de padrões de comunicação é crucial. A utilização de protocolos modernos, como REST ou gRPC, estabelece uma comunicação eficaz e padronizada entre os microsserviços, promovendo uma integração harmoniosa.
+
+7. Monitoramento e Orquestração:
+
+Dada a natureza distribuída dos microsserviços, a implementação de ferramentas de monitoramento e orquestração é essencial. Essas ferramentas garantirão a observabilidade, desempenho e confiabilidade do sistema em sua totalidade.
+Em síntese, a escolha da Arquitetura de Microsserviços e a utilização de Java evidenciam uma estratégia cuidadosa do grupo MB. Essa abordagem não apenas atende às necessidades específicas do Pizza-Express, mas também estabelece uma base sólida para a inovação contínua e aprimoramentos futuros.
 
 # Diagrama de implantação
 
